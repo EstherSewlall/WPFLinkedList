@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "krtoy8wqm8lpXRsY9KI/dIpYXkGqRKMbPqzDHp1O7XNf81TEEpXq43XL4skOx4uPVkJVEYUUWRQHFmHuJ4BksQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\techmarkit\\source\\repos\\LinkedList\\LinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\techmarkit\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
